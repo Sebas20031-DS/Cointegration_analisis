@@ -1,4 +1,4 @@
-Links datos:
+Data links:
 
 https://finance.yahoo.com/quote/BTC-USD/history
 
